@@ -1,0 +1,14 @@
+{
+  "name": "rescript-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.bs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rescript": "^10.1.0-alpha.2"
+  }
+}
